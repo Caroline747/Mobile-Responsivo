@@ -2,14 +2,25 @@
     margin: 0;
 }
 
+ h1 {
+    text-align: center;
+    margin: 10px 0;
+}
+
 .mobile-body {
-    border: solid 3px red;
+    border: solid 3px rgb(15, 2, 2);
     width: 375px;
     height: 100vh;
 }
 
 .mobile-header {
-    border: solid 3px rgb(199, 90, 166);
-    width: 100%;
+    border: solid 2px rgb(3, 231, 52);
+    width: 99%;
     height: 50px;   
+}
+ 
+.pink-square {
+    border: solid 2px rgb(240, 6, 123);
+    width: 99%;
+    height: 50px;
 }
