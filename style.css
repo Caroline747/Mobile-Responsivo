@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+}
+
+.mobile-body {
+    border: solid 3px red;
+    width: 375px;
+    height: 100vh;
+}
+
+.mobile-header {
+    border: solid 3px rgb(199, 90, 166);
+    width: 100%;
+    height: 50px;   
+}
