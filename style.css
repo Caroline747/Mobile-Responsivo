@@ -14,13 +14,19 @@
 }
 
 .mobile-header {
-    border: solid 2px rgb(3, 231, 52);
+    border: solid 2px rgb(231, 75, 3);
     width: 99%;
     height: 50px;   
 }
  
 .pink-square {
-    border: solid 2px rgb(240, 6, 123);
+    border: solid 2px rgb(6, 215, 230);
     width: 99%;
     height: 50px;
+}
+
+.mobile-body-content {
+    border: solid 3px rgb(26, 3, 231);
+    width: 99%;
+    height: 108px;
 }
