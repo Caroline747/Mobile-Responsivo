@@ -11,6 +11,8 @@
     border: solid 6px rgb(160, 243, 6);
     width: 375px;
     height: 100vh;
+    float: left;
+    margin-left: 10px;
 }
 
 .verde-header {
@@ -37,6 +39,7 @@
     height: 50px;
 }
 
+
 .amarelo-square {
     border: solid 3px rgb(255, 255, 0);
     width: 99%;
@@ -50,4 +53,9 @@
     top: 50%;
     left: 50%;
     margin: 8px 0 0 5px;
+}
+
+.imagem-mobile {
+    float: right;
+    margin-right: 20px;
 }
