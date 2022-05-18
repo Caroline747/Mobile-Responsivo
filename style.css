@@ -8,25 +8,46 @@
 }
 
 .mobile-body {
-    border: solid 3px rgb(15, 2, 2);
+    border: solid 6px rgb(160, 243, 6);
     width: 375px;
     height: 100vh;
 }
 
-.mobile-header {
-    border: solid 2px rgb(231, 75, 3);
-    width: 99%;
-    height: 50px;   
+.verde-header {
+    border: solid 3px rgb(9, 63, 1);
+    width: 98%;
+    height: 45px;   
 }
  
-.pink-square {
-    border: solid 2px rgb(6, 215, 230);
+.azul-header {
+    border: solid 3px rgb(6, 215, 230);
+    width: 98%;
+    height: 48px;
+}
+
+.mobile-body-vermelho {
+    border: solid 4px rgb(248, 84, 8);
+    width: 99%;
+    height: 108px;
+}
+
+.roxo-square {
+    border: solid 4px rgb(141, 8, 81);
     width: 99%;
     height: 50px;
 }
 
-.mobile-body-content {
-    border: solid 3px rgb(26, 3, 231);
+.amarelo-square {
+    border: solid 3px rgb(255, 255, 0);
     width: 99%;
-    height: 108px;
+    height: 35px;
+}
+
+.salmao-square {
+    border: solid 3px rgb(184, 73, 73);
+    width: 95%;
+    height: 375px;
+    top: 50%;
+    left: 50%;
+    margin: 8px 0 0 5px;
 }
